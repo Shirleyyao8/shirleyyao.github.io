@@ -1,6 +1,10 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;1,100;1,300&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600&display=swap');
+
+
 /*
 	Story by HTML5 UP
 	html5up.net | @ajlkn
@@ -213,9 +217,8 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-		/* font-family: 'Lato', sans-serif; */
 		font-family: 'Montserrat', sans-serif;
+		/* font-family: 'Open Sans', sans-serif; */
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -250,7 +253,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 300;
+		font-weight: 280;
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
@@ -262,12 +265,12 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 3.5rem;
+		font-size: 3.4rem;
 		line-height: 1.2;
 	}
 
 	h2 {
-		font-size: 2.25rem;
+		font-size: 2.1rem;
 	}
 
 	h3 {
